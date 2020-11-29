@@ -1,16 +1,8 @@
-# covid_info
+# Covid.info
+An Android App that gives you rewards the more you are aware of today's pandemic.
 
-A new Flutter project.
+## What is this app?
+This is just a simple app that gives a user Reward Points (Awareness Points). These points can then be used to claim cool rewards such as SMS load.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Install
+Clone this repo and install the apk_release.apk file from your Android Phone. Take note that this .apk does not support x86 Android, so use an arm-64 translation tool when packing the file.
