@@ -9,4 +9,4 @@ The app also features a live update of the cases of Covid-19 worldwide and in th
 User can then log in into the app or log out with ease.
 
 ## How to Install
-Clone this repo and unpack the covid_info.rar file and install the provided .apk file to your Android Phone. Take note that this .apk does not support x86, so use an arm-64 translation tool when packing the file in Genymotion.
+Clone this repo and unpack the covid_info.rar file, then install the provided .apk file to your Android Phone. Take note that this .apk does not support x86, so use an arm-64 translation tool when packing the file in Genymotion.
