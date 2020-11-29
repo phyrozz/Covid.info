@@ -2,7 +2,7 @@
 An Android App that gives you rewards the more you are aware of today's pandemic.
 
 ## What is this app?
-This is just a simple app that gives a user Reward Points (Awareness Points) when reading a news article related to Covid-19 in the app. These points can then be used to claim cool rewards such as SMS load.
+This is just a simple app that gives a user reward points (Awareness Points) when reading a news article related to Covid-19 in the app. These points can then be used to claim cool rewards such as SMS load.
 
 The app also features a live update of the cases of Covid-19 worldwide and in the Philippines, such as the "total cases", "total deaths", and "total recoveries".
 
