@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836363870479",
+    "firebase_url": "https://hf-demo-79c0a.firebaseio.com",
+    "project_id": "hf-demo-79c0a",
+    "storage_bucket": "hf-demo-79c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836363870479:android:376e6ed363f5e03978de7a",
+        "android_client_info": {
+          "package_name": "com.example.covid_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836363870479-lm9mcllqvlo5sgdc0vkhpfqfejsgct5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMABvlZDeq5T28S2CflKZsyljVom5V97k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836363870479-lm9mcllqvlo5sgdc0vkhpfqfejsgct5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
